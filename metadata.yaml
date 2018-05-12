@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Marie_Curie
     - http://en.wikipedia.org/wiki/Marie_Curie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43233#Recherches-sur-les-substances-radioactives
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - FR Prix Nobel
