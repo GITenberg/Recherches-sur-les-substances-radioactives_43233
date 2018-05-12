@@ -1,0 +1,38 @@
+_repo: Recherches-sur-les-substances-radioactives_43233
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43233-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curie, Marie
+    aliases:
+    - Curie, Marie Skłodowska
+    - Skłodowska, Marya
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '39174'
+    url: http://www.gutenberg.org/2009/agents/39174
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marie_Curie
+    - http://en.wikipedia.org/wiki/Marie_Curie
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- FR Prix Nobel
+- FR Femmes
+gutenberg_issued: '2013-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43233'
+  lccn: '04010116'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radioactive substances'
+- !lcsh 'Radioactivity'
+- !lcc 'QC'
+title: Recherches sur les substances radioactives
+url: http://www.gutenberg.org/ebooks/43233
